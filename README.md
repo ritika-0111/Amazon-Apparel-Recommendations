@@ -1,5 +1,5 @@
 # Amazon-Apparel-Recommendations  
-Recommends Apparels based on user interest.   
+Recommends Apparel based on user interest.   
 ## Strategy:
    1. Explore the dataset,  find Basic stats for the feature important features   
    2. Remove duplicate items  
